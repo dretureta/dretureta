@@ -78,15 +78,15 @@
     </td>
     <td align="center" width="96">
       <a href="#dretureta-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="./img/vue-js.svg" width="48" height="48" alt="Vue" />
       </a>
-      <br>Bootstrap
+      <br>Vue
     </td>
     <td align="center" width="96">
       <a href="#dretureta-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+        <img src="./img/tailwindcss-original.svg" width="48" height="48" alt="TailwindCSS" />
       </a>
-      <br>Sass
+      <br>TailwindCSS
     </td>
   </tr>
   <tr>
