@@ -17,7 +17,7 @@
 </p>
 
 <a href="#dretureta-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="dretureta" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dretureta&show_icons=true&theme=radical" alt="dretureta" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working at **[Ceibal]**
