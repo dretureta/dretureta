@@ -32,7 +32,7 @@
 
 > Tools, languages, and other things that I like to work with.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,github,ts,js,nodejs,react,vue,php,laravel,go,grafana,prometheus)](https://skillicons.dev)
 
 <!-- links -->
 
