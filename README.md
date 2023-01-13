@@ -16,19 +16,18 @@
   </a>
 </p>
 
-<a href="#dretureta-title">
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dretureta&theme=blue-green&mode=weekly)](https://git.io/streak-stats)
-
-</a>
-
 - :office: &nbsp;I'm currently working at **[Ceibal]**
 - :seedling: &nbsp;I’m currently learning **Go**
 - :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
+<a href="#dretureta-title" align="center">
+
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dretureta&theme=blue-green&mode=weekly)](https://git.io/streak-stats)
+
+</a>
+
 <br>
 
 <h2 align="left" id="dretureta-tech">Favorite Tech</h2>
