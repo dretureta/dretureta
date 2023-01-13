@@ -17,7 +17,7 @@
 </p>
 
 <a href="#dretureta-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=dretureta&show_icons=true&theme=radical" alt="dretureta" align="right" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dretureta&theme=blue-green&mode=weekly)](https://git.io/streak-stats)
 </a>
 
 - :office: &nbsp;I'm currently working at **[Ceibal]**
