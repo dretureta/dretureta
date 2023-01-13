@@ -32,7 +32,7 @@
 
 > Tools, languages, and other things that I like to work with.
 
-(https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <!-- links -->
 
