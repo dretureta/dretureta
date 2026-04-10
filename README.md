@@ -33,13 +33,13 @@ Currently at **Ceibal**, I lead the architectural design and implementation of A
 ### 🛠️ Tech Arsenal
 
 #### Core Languages & Frameworks
-<img src="https://go-skill-icons.netlify.app/api/icons?i=typescript,javascript,go,python,csharp,dotnet,php,java,react,vue,nodejs,express,laravel" />
+![icons](https://go-skill-icons.netlify.app/api/icons?i=typescript,javascript,go,python,csharp,dotnet,php,java,react,vue,nodejs,express,laravel)
 
 #### Cloud, DevOps & Infrastructure
-<img src="https://go-skill-icons.netlify.app/api/icons?i=aws,azure,docker,kubernetes,terraform,githubactions,gitlab,nginx,rabbitmq" />
+![icons](https://go-skill-icons.netlify.app/api/icons?i=aws,azure,docker,kubernetes,terraform,githubactions,gitlab,nginx,rabbitmq)
 
 #### Databases & Observability
-<img src="https://go-skill-icons.netlify.app/api/icons?i=postgresql,mysql,mongodb,redis,elasticsearch,grafana,prometheus" />
+![icons](https://go-skill-icons.netlify.app/api/icons?i=postgresql,mysql,mongodb,redis,elasticsearch,grafana,prometheus)
 
 #### AI Engineering & Architecture
 **Frontier LLMs** (GPT-5 series • Claude 4 • Gemini 3 • Llama 4) • **Multi-Agent Systems** • **RAG Pipelines at Scale** • **Vector Databases** • **LangChain / LlamaIndex** • **Prompt Engineering & Evaluation** • **Fine-tuning & Quantization** • **Model Orchestration & Routing** • **AI Observability & Cost Optimization**
