@@ -34,7 +34,7 @@ Currently at **Ceibal**, I lead the architectural design and implementation of A
 ### 🛠️ Tech Arsenal
 
 #### Core Languages & Frameworks
-![Languages & Frameworks](https://skillicons.dev/icons?i=typescript,javascript,go,python,csharp,dotnet,php,java,react,vue,nodejs,express,laravel&perline=12)
+![Languages & Frameworks](https://skillicons.dev/icons?i=typescript,javascript,go,python,dotnet,php,java,react,vue,nodejs,express,laravel&perline=12)
 
 #### Cloud, DevOps & Infrastructure
 ![Cloud & DevOps](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,githubactions,gitlab,nginx,rabbitmq&perline=10)
