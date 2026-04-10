@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Denys Retureta</h1>
 
-<h3 align="center">Senior Full-Stack Engineer & AI Engineer | Designing and shipping production-grade AI systems at scale</h3>
+<h3 align="center">Senior Full-Stack Engineer & AI Engineer</h3>
+<h4 align="center">Designing and shipping production-grade AI systems at scale</h4>
 
 <p align="center">
   <a href="https://github.com/dretureta">
